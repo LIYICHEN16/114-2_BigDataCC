@@ -1,5 +1,5 @@
-李翊丞
-C111181134
+姓名：李翊丞
+學號：C111181134
 
 student101@linux-server1:~$ nano ~/my_script.sh
 student101@linux-server1:~$ chmod +x ~/my_script.sh
