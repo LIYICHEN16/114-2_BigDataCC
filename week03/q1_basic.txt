@@ -45,3 +45,4 @@ drwxrwxr-x.  2 student101 student101     58 Mar 10 07:20 practice
 drwxrwxr-x.  2 student101 student101      6 Mar  9 06:49 projects
 drwxrwxr-x.  2 student101 student101      6 Mar  9 06:49 scripts
 drwxrwxr-x.  4 student101 student101     51 Mar 25 14:11 week04
+
