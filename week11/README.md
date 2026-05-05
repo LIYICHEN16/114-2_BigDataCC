@@ -1,5 +1,17 @@
 # 第 11 週教學講義：Pandas 資料清洗
 
+## 本週課本主題
+
+**第 7 章 使用 VS Code 在 WSL 與 GitHub 開發應用程式**
+
+- 7-1 下載與安裝 Visual Studio Code
+- 7-2 使用 WSL 2 + Node.js 建立 Web 伺服器
+- 7-3 使用 WSL 2 + Python 進行 Web 開發
+- 7-4 認識 Git 與 GitHub
+- 7-5 使用 GitHub 檔案庫進行 VS Code 專案開發
+
+---
+
 > ⚠️ **本週為書外補充教材**——課本《你的第一本 Linux 入門書》（陳會安，博碩文化）Ch 6 著重 Miniconda 環境與 GPU 配置，**未涵蓋 Pandas 資料處理**。本週為老師補充內容，後續 W12 視覺化會回到課本 6-4 Jupyter Notebook。
 
 ---
